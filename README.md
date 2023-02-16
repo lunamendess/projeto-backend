@@ -31,7 +31,7 @@ Para finalizar, remova o script de `"test"`, crie o script `"start": "nodemon se
 
 ```json
 {
-  "name": "case2-back-teste",
+  "name": "projeto-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
