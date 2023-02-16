@@ -14,7 +14,7 @@ Instalar dependências do projeto
 npm install nodemon --save-dev
 npm install bcrypt cors express sqlite sqlite3
 npm install
-npm run speed
+npm run seed
 npm start
 ```
 
