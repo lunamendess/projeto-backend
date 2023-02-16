@@ -1,5 +1,5 @@
-# case2-backend
-Case 2 - Site do EstudoApp (Backend)
+# projeto-backend
+projeto-  (Backend)
 
 
 ## 1. Estruturação do projeto e dependências
@@ -13,6 +13,9 @@ Instalar dependências do projeto
 ```sh
 npm install nodemon --save-dev
 npm install bcrypt cors express sqlite sqlite3
+npm install
+npm run speed
+npm start
 ```
 
 - `bcrypt`: Armazena e compara senhas de forma segura
